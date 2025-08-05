@@ -17,8 +17,10 @@ Follow these steps to get the project running.
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git]
-cd your-repo-name
+git clone https://github.com/RAP-Team-AURA/bulls-eye.git
+cd bulls-eye
+pip install -r requirements.txt
+python RAP3.py
 ```
 
 ---
