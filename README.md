@@ -10,7 +10,7 @@ A deep learning pipeline built for hackathon submission that detects, tracks, an
 # For the Jury \^_^
 ## Setup and Installation
 
-Cheatcode: run this on google colab instead: LINK
+Cheatcode: run this on google colab instead: [Colab link!](https://colab.research.google.com/drive/1nq1NOA40PXEB9Gvg3OEM3ucormTHj2lX?usp=sharing)
 
 Follow these steps to get the project running.
 
